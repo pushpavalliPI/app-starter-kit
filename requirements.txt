@@ -1,1 +1,5 @@
 streamlit>=1.26.0
+google-generativeai
+python-dotenv
+pdf2image
+
